@@ -1,6 +1,6 @@
 # Bridge Fees Tracker
 
-A Python tool to track and compare fees across different blockchain bridge protocols (Across, Hop) for various tokens and chains.
+A Python tool that compares cross-chain bridge fees between Across and Hop protocols, supporting major tokens (USDC, ETH, USDT) and L2 chains (Optimism, Arbitrum, Base). The tool provides real-time fee comparisons with detailed breakdowns of components like relay fees, LP fees, bonder fees, and AMM fees, helping users make cost-effective bridging decisions.
 
 ## Features
 
